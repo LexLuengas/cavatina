@@ -1,0 +1,649 @@
+%%FONTLAB CLASSES
+
+%%CLASS quav
+%%GLYPHS  agrave ampersand eacute quotedbl quotesingle parenleft hyphen egrave underscore ccedilla q b c d e f g h j comma n a r s t u v z x y w zero.inv one.inv two.inv three.inv four.inv five.inv six.inv seven.inv eight.inv nine.inv a.inv b.inv c.inv d.inv e.inv f.inv g.inv h.inv j.inv m.inv n.inv q.inv r.inv s.inv t.inv u.inv v.inv w.inv x.inv y.inv z.inv z.ft x.ft c.ft v.ft b.ft n.ft m.ft a.ft s.ft d.ft f.ft g.ft h.ft j.ft q.ft w.ft e.ft r.ft t.ft y.ft u.ft one.ft two.ft three.ft four.ft five.ft six.ft seven.ft eight.ft nine.ft zero.ft
+%%END
+
+%%CLASS crot
+%%GLYPHS  zero one two three four five six seven eight nine Q B C D E F G H J question N A R S T U V Z X Y W parenright.inv exclam.inv at.inv numbersign.inv dollar.inv percent.inv asciicircum.inv ampersand.inv asterisk.inv parenleft.inv A.inv B.inv C.inv D.inv E.inv F.inv G.inv H.inv J.inv M.inv N.inv Q.inv R.inv S.inv T.inv U.inv V.inv W.inv X.inv Y.inv Z.inv z.ft x.ft c.ft v.ft b.ft n.ft m.ft a.ft s.ft d.ft f.ft g.ft h.ft j.ft q.ft w.ft e.ft r.ft t.ft y.ft u.ft one.ft two.ft three.ft four.ft five.ft six.ft seven.ft eight.ft nine.ft zero.ft
+%%END
+
+%%CLASS minim
+%%GLYPHS  zero.min one.min two.min three.min four.min five.min six.min seven.min eight.min nine.min a.min b.min c.min d.min e.min f.min g.min h.min j.min m.min n.min q.min r.min s.min t.min u.min v.min w.min x.min y.min z.min zero.imin one.imin two.imin three.imin four.imin five.imin six.imin seven.imin eight.imin nine.imin a.imin b.imin c.imin d.imin e.imin f.imin g.imin h.imin j.imin m.imin n.imin q.imin r.imin s.imin t.imin u.imin v.imin w.imin x.imin y.imin z.inv z.mft x.mft c.mft v.mft b.mft n.mft m.mft a.mft s.mft d.mft f.mft g.mft h.mft j.mft q.mft w.mft e.mft r.mft t.mft y.mft u.mft one.mft two.mft three.mft four.mft five.mft six.mft seven.mft eight.mft nine.mft zero.mft
+%%END
+
+%%CLASS brev
+%%GLYPHS  z.bre x.bre c.bre v.bre b.bre n.bre m.bre a.bre s.bre d.bre f.bre g.bre h.bre j.bre q.bre w.bre e.bre r.bre t.bre y.bre u.bre one.bre two.bre three.bre four.bre five.bre six.bre seven.bre eight.bre nine.bre zero.bre
+%%END
+
+%%CLASS rightfl
+%%GLYPHS  a.rfl b.rfl c.rfl d.rfl e.rfl eight.rfl f.rfl five.rfl four.rfl g.rfl h.rfl j.rfl m.rfl n.rfl nine.rfl one.rfl q.rfl r.rfl s.rfl seven.rfl six.rfl t.rfl three.rfl two.rfl u.rfl v.rfl w.rfl x.rfl y.rfl z.rfl zero.rfl z.mrfl x.mrfl c.mrfl v.mrfl b.mrfl n.mrfl m.mrfl a.mrfl s.mrfl d.mrfl f.mrfl g.mrfl h.mrfl j.mrfl q.mrfl w.mrfl e.mrfl r.mrfl t.mrfl y.mrfl u.mrfl one.mrfl two.mrfl three.mrfl four.mrfl five.mrfl six.mrfl seven.mrfl eight.mrfl nine.mrfl zero.mrfl z.brfl x.brfl c.brfl v.brfl b.brfl n.brfl m.brfl a.brfl s.brfl d.brfl f.brfl g.brfl h.brfl j.brfl q.brfl w.brfl e.brfl r.brfl t.brfl y.brfl u.brfl one.brfl two.brfl three.brfl four.brfl five.brfl six.brfl seven.brfl eight.brfl nine.brfl zero.brfl
+%%END
+
+%%CLASS leftfl
+%%GLYPHS  a.lfl b.lfl c.lfl d.lfl e.lfl eight.lfl f.lfl five.lfl four.lfl g.lfl h.lfl j.lfl m.lfl n.lfl nine.lfl one.lfl q.lfl r.lfl s.lfl seven.lfl six.lfl t.lfl three.lfl two.lfl u.lfl v.lfl w.lfl x.lfl y.lfl z.lfl zero.lfl z.mlfl x.mlfl c.mlfl v.mlfl b.mlfl n.mlfl m.mlfl a.mlfl s.mlfl d.mlfl f.mlfl g.mlfl h.mlfl j.mlfl q.mlfl w.mlfl e.mlfl r.mlfl t.mlfl y.mlfl u.mlfl one.mlfl two.mlfl three.mlfl four.mlfl five.mlfl six.mlfl seven.mlfl eight.mlfl nine.mlfl zero.mlfl z.blfl x.blfl c.blfl v.blfl b.blfl n.blfl m.blfl a.blfl s.blfl d.blfl f.blfl g.blfl h.blfl j.blfl q.blfl w.blfl e.blfl r.blfl t.blfl y.blfl u.blfl one.blfl two.blfl three.blfl four.blfl five.blfl six.blfl seven.blfl eight.blfl nine.blfl zero.blfl
+%%END
+
+%%CLASS punt
+%%GLYPHS  punt_c3 punt_e3 punt_g3 punt_b3 punt_d4 punt_f4 punt_a4 punt_c5 punt_e5 punt_g5 punt_b5 punt_d6 punt_f6 punt_a6 punt_c7 punt_e7 rpunt_e3 rpunt_g3 rpunt_b3 rpunt_d4 rpunt_f4 rpunt_a4 rpunt_c5 rpunt_e5 rpunt_g5 rpunt_b5 rpunt_d6 rpunt_f6 rpunt_a6 rpunt_c7 rpunt_e7 lpunt_e3 lpunt_g3 lpunt_b3 lpunt_d4 lpunt_f4 lpunt_a4 lpunt_c5 lpunt_e5 lpunt_g5 lpunt_b5 lpunt_d6 lpunt_f6 lpunt_a6 lpunt_c7 lpunt_e7
+%%END
+
+%%CLASS qpunt
+%%GLYPHS  punt_c3 punt_e3 punt_g3 punt_b3 qpunt_d4 qpunt_f4 qpunt_a4 qpunt_c5 qpunt_e5 qpunt_g5 qpunt_b5 qpunt_d6 qpunt_f6 qpunt_a6 qpunt_c7 qpunt_e7 rpunt_e3 rpunt_g3 rpunt_b3 rpunt_d4 rpunt_f4 rpunt_a4 rpunt_c5 rpunt_e5 rpunt_g5 rpunt_b5 rpunt_d6 rpunt_f6 rpunt_a6 rpunt_c7 rpunt_e7 lpunt_e3 lpunt_g3 lpunt_b3 lpunt_d4 lpunt_f4 lpunt_a4 lpunt_c5 lpunt_e5 lpunt_g5 lpunt_b5 lpunt_d6 lpunt_f6 lpunt_a6 lpunt_c7 lpunt_e7
+%%END
+
+%%CLASS up
+%%GLYPHS  j.inv q.inv w.inv e.inv r.inv t.inv y.inv u.inv one.inv two.inv three.inv four.inv five.inv six.inv seven.inv eight.inv nine.inv zero.inv J.inv Q.inv W.inv E.inv R.inv T.inv Y.inv U.inv exclam.inv at.inv numbersign.inv dollar.inv percent.inv asciicircum.inv ampersand.inv asterisk.inv parenleft.inv parenright.inv w x c v b n comma q s d f g h W X C V B N question Q S D F G H z.min x.min c.min v.min b.min n.min m.min a.min s.min d.min f.min g.min h.min j.imin q.imin w.imin e.imin r.imin t.imin y.imin u.imin one.imin two.imin three.imin four.imin five.imin six.imin seven.imin eight.imin nine.imin zero.imin z.bre x.bre c.bre v.bre b.bre n.bre m.bre a.bre s.bre d.bre f.bre g.bre h.bre
+%%END
+
+%%CLASS down
+%%GLYPHS  j a z e r t y u ampersand eacute quotedbl quotesingle parenleft hyphen egrave underscore ccedilla agrave J A Z E R T Y U one two three four five six seven eight nine zero z.inv x.inv c.inv v.inv b.inv n.inv m.inv a.inv s.inv d.inv f.inv g.inv h.inv Z.inv X.inv C.inv V.inv B.inv N.inv M.inv A.inv S.inv D.inv F.inv G.inv H.inv j.min q.min w.min e.min r.min t.min y.min u.min one.min two.min three.min four.min five.min six.min seven.min eight.min nine.min zero.min z.imin x.imin c.imin v.imin b.imin n.imin m.imin a.imin s.imin d.imin f.imin g.imin h.imin j.bre q.bre w.bre e.bre r.bre t.bre y.bre u.bre one.bre two.bre three.bre four.bre five.bre six.bre seven.bre eight.bre nine.bre zero.bre
+%%END
+
+%%CLASS upquav
+%%GLYPHS  j.inv q.inv w.inv e.inv r.inv t.inv y.inv u.inv one.inv two.inv three.inv four.inv five.inv six.inv seven.inv eight.inv nine.inv zero.inv w x c v b n comma q s d f g h
+%%END
+
+%%CLASS upcrot
+%%GLYPHS  J.inv Q.inv W.inv E.inv R.inv T.inv Y.inv U.inv exclam.inv at.inv numbersign.inv dollar.inv percent.inv asciicircum.inv ampersand.inv asterisk.inv parenleft.inv parenright.inv W X C V B N question Q S D F G H
+%%END
+
+%%CLASS downquav
+%%GLYPHS  j a z e r t y u ampersand eacute quotedbl quotesingle parenleft hyphen egrave underscore ccedilla agrave z.inv x.inv c.inv v.inv b.inv n.inv m.inv a.inv s.inv d.inv f.inv g.inv h.inv
+%%END
+
+%%CLASS downcrot
+%%GLYPHS  J A Z E R T Y U one two three four five six seven eight nine zero Z.inv X.inv C.inv V.inv B.inv N.inv M.inv A.inv S.inv D.inv F.inv G.inv H.inv
+%%END
+
+%%CLASS artic
+%%GLYPHS  stac_a2 stac_b2 stac_c3 stac_d3 stac_e3 stac_f3 stac_g3 stac_a3 stac_b3 stac_c4 stac_d4 stac_f4 stac_a4 stac_c5 stac_e5 stac_g5 stac_b5 stac_d6 stac_f6 stac_a6 stac_c7 stacs_a2 stacs_b2 stacs_c3 stacs_d3 stacs_e3 stacs_f3 stacs_g3 stacs_a3 stacs_b3 stacs_c4 stacs_d4 stacs_f4 stacs_a4 stacs_c5 stacs_e5 stacs_g5 stacs_b5 stacs_d6 stacs_f6 stacs_a6 stacs_c7 tenu_a2 tenu_b2 tenu_c3 tenu_d3 tenu_e3 tenu_f3 tenu_g3 tenu_a3 tenu_b3 tenu_c4 tenu_d4 tenu_f4 tenu_a4 tenu_c5 tenu_e5 tenu_g5 tenu_b5 tenu_d6 tenu_f6 tenu_a6 tenu_c7 asterisk mu greater stac_a5 stac_c6 stac_e6 stac_g6 stac_b6 stac_d7 stac_e7 stac_f7 stac_g7 tenu_a5 tenu_c6 tenu_e6 tenu_g6 tenu_b6 tenu_d7 tenu_e7 tenu_f7 tenu_g7 stacs_a5 stacs_c6 stacs_e6 stacs_g6 stacs_b6 stacs_d7 stacs_e7 stacs_f7 stacs_g7 acc_a2 acc_b2 acc_c3 acc_d3 acc_e3 acc_f3 acc_g3 acc_a3 acc_b3 acc_c4 acc_d4 acc_f4 acc_a4 acc_c5 acc_e5 acc_g5 acc_a5 acc_b5 acc_c6 acc_d6 acc_e6 acc_f6 acc_g6 acc_a6 acc_b6 acc_c7 acc_d7 acc_e7 acc_f7 acc_g7
+%%END
+
+%%CLASS alter
+%%GLYPHS  dies_z dies_x dies_c dies_v dies_b dies_n dies_m dies_a dies_s dies_d dies_f dies_g dies_h dies_j dies_q dies_w dies_e dies_r dies_t dies_y dies_u dies_one dies_two dies_three dies_four dies_five dies_six dies_seven dies_eight dies_nine dies_zero bem_z bem_x bem_c bem_v bem_b bem_n bem_m bem_a bem_s bem_d bem_f bem_g bem_h bem_j bem_q bem_w bem_e bem_r bem_t bem_y bem_u bem_one bem_two bem_three bem_four bem_five bem_six bem_seven bem_eight bem_nine bem_zero natu natu_z natu_x natu_c natu_v natu_b natu_n natu_m natu_a natu_s natu_d natu_f natu_g natu_h natu_j natu_q natu_w natu_e natu_r natu_t natu_y natu_u natu_one natu_two natu_three natu_four natu_five natu_six natu_seven natu_eight natu_nine natu_zero ddies ddies_z ddies_x ddies_c ddies_v ddies_b ddies_n ddies_m ddies_a ddies_s ddies_d ddies_f ddies_g ddies_h ddies_j ddies_q ddies_w ddies_e ddies_r ddies_t ddies_y ddies_u ddies_one ddies_two ddies_three ddies_four ddies_five ddies_six ddies_seven ddies_eight ddies_nine ddies_zero bbem_z bbem_x bbem_c bbem_v bbem_b bbem_n bbem_m bbem_a bbem_s bbem_d bbem_f bbem_g bbem_h bbem_j bbem_q bbem_w bbem_e bbem_r bbem_t bbem_y bbem_u bbem_one bbem_two bbem_three bbem_four bbem_five bbem_six bbem_seven bbem_eight bbem_nine bbem_zero
+%%END
+
+%%CLASS ainput
+%%GLYPHS  asterisk mu less greater equal parenright stacs fermata natu ddies bbem degree plus P l L p section bm twosuperior
+%%END
+
+%%CLASS binput
+%%GLYPHS  asterisk mu less greater equal parenright stacs fermata L natu ddies bbem
+%%END
+
+%%CLASS cinput
+%%GLYPHS  equal parenright natu ddies bbem
+%%END
+
+%%CLASS dinput
+%%GLYPHS  asterisk mu less greater stacs fermata
+%%END
+
+%%CLASS diesis
+%%GLYPHS  dies_z dies_x dies_c dies_v dies_b dies_n dies_m dies_a dies_s dies_d dies_f dies_g dies_h dies_j dies_q dies_w dies_e dies_r dies_t dies_y dies_u dies_one dies_two dies_three dies_four dies_five dies_six dies_seven dies_eight dies_nine dies_zero equal
+%%END
+
+%%CLASS bemol
+%%GLYPHS  bem_z bem_x bem_c bem_v bem_b bem_n bem_m bem_a bem_s bem_d bem_f bem_g bem_h bem_j bem_q bem_w bem_e bem_r bem_t bem_y bem_u bem_one bem_two bem_three bem_four bem_five bem_six bem_seven bem_eight bem_nine bem_zero parenright
+%%END
+
+%%CLASS alter2
+%%GLYPHS  dies_z.2 dies_x.2 dies_c.2 dies_v.2 dies_b.2 dies_n.2 dies_m.2 dies_a.2 dies_s.2 dies_d.2 dies_f.2 dies_g.2 dies_h.2 dies_j.2 dies_q.2 dies_w.2 dies_e.2 dies_r.2 dies_t.2 dies_y.2 dies_u.2 dies_one.2 dies_two.2 dies_three.2 dies_four.2 dies_five.2 dies_six.2 dies_seven.2 dies_eight.2 dies_nine.2 dies_zero.2 bem_z.2 bem_x.2 bem_c.2 bem_v.2 bem_b.2 bem_n.2 bem_m.2 bem_a.2 bem_s.2 bem_d.2 bem_f.2 bem_g.2 bem_h.2 bem_j.2 bem_q.2 bem_w.2 bem_e.2 bem_r.2 bem_t.2 bem_y.2 bem_u.2 bem_one.2 bem_two.2 bem_three.2 bem_four.2 bem_five.2 bem_six.2 bem_seven.2 bem_eight.2 bem_nine.2 bem_zero.2 natu_z.2 natu_x.2 natu_c.2 natu_v.2 natu_b.2 natu_n.2 natu_m.2 natu_a.2 natu_s.2 natu_d.2 natu_f.2 natu_g.2 natu_h.2 natu_j.2 natu_q.2 natu_w.2 natu_e.2 natu_r.2 natu_t.2 natu_y.2 natu_u.2 natu_one.2 natu_two.2 natu_three.2 natu_four.2 natu_five.2 natu_six.2 natu_seven.2 natu_eight.2 natu_nine.2 natu_zero.2 ddies_z.2 ddies_x.2 ddies_c.2 ddies_v.2 ddies_b.2 ddies_n.2 ddies_m.2 ddies_a.2 ddies_s.2 ddies_d.2 ddies_f.2 ddies_g.2 ddies_h.2 ddies_j.2 ddies_q.2 ddies_w.2 ddies_e.2 ddies_r.2 ddies_t.2 ddies_y.2 ddies_u.2 ddies_one.2 ddies_two.2 ddies_three.2 ddies_four.2 ddies_five.2 ddies_six.2 ddies_seven.2 ddies_eight.2 ddies_nine.2 ddies_zero.2 bbem_z.2 bbem_x.2 bbem_c.2 bbem_v.2 bbem_b.2 bbem_n.2 bbem_m.2 bbem_a.2 bbem_s.2 bbem_d.2 bbem_f.2 bbem_g.2 bbem_h.2 bbem_j.2 bbem_q.2 bbem_w.2 bbem_e.2 bbem_r.2 bbem_t.2 bbem_y.2 bbem_u.2 bbem_one.2 bbem_two.2 bbem_three.2 bbem_four.2 bbem_five.2 bbem_six.2 bbem_seven.2 bbem_eight.2 bbem_nine.2 bbem_zero.2
+%%END
+
+%%CLASS alter3
+%%GLYPHS  dies_z.3 dies_x.3 dies_c.3 dies_v.3 dies_b.3 dies_n.3 dies_m.3 dies_a.3 dies_s.3 dies_d.3 dies_f.3 dies_g.3 dies_h.3 dies_j.3 dies_q.3 dies_w.3 dies_e.3 dies_r.3 dies_t.3 dies_y.3 dies_u.3 dies_one.3 dies_two.3 dies_three.3 dies_four.3 dies_five.3 dies_six.3 dies_seven.3 dies_eight.3 dies_nine.3 dies_zero.3 bem_z.3 bem_x.3 bem_c.3 bem_v.3 bem_b.3 bem_n.3 bem_m.3 bem_a.3 bem_s.3 bem_d.3 bem_f.3 bem_g.3 bem_h.3 bem_j.3 bem_q.3 bem_w.3 bem_e.3 bem_r.3 bem_t.3 bem_y.3 bem_u.3 bem_one.3 bem_two.3 bem_three.3 bem_four.3 bem_five.3 bem_six.3 bem_seven.3 bem_eight.3 bem_nine.3 bem_zero.3 natu_z.3 natu_x.3 natu_c.3 natu_v.3 natu_b.3 natu_n.3 natu_m.3 natu_a.3 natu_s.3 natu_d.3 natu_f.3 natu_g.3 natu_h.3 natu_j.3 natu_q.3 natu_w.3 natu_e.3 natu_r.3 natu_t.3 natu_y.3 natu_u.3 natu_one.3 natu_two.3 natu_three.3 natu_four.3 natu_five.3 natu_six.3 natu_seven.3 natu_eight.3 natu_nine.3 natu_zero.3 ddies_z.3 ddies_x.3 ddies_c.3 ddies_v.3 ddies_b.3 ddies_n.3 ddies_m.3 ddies_a.3 ddies_s.3 ddies_d.3 ddies_f.3 ddies_g.3 ddies_h.3 ddies_j.3 ddies_q.3 ddies_w.3 ddies_e.3 ddies_r.3 ddies_t.3 ddies_y.3 ddies_u.3 ddies_one.3 ddies_two.3 ddies_three.3 ddies_four.3 ddies_five.3 ddies_six.3 ddies_seven.3 ddies_eight.3 ddies_nine.3 ddies_zero.3 bbem_z.3 bbem_x.3 bbem_c.3 bbem_v.3 bbem_b.3 bbem_n.3 bbem_m.3 bbem_a.3 bbem_s.3 bbem_d.3 bbem_f.3 bbem_g.3 bbem_h.3 bbem_j.3 bbem_q.3 bbem_w.3 bbem_e.3 bbem_r.3 bbem_t.3 bbem_y.3 bbem_u.3 bbem_one.3 bbem_two.3 bbem_three.3 bbem_four.3 bbem_five.3 bbem_six.3 bbem_seven.3 bbem_eight.3 bbem_nine.3 bbem_zero.3
+%%END
+
+%%CLASS diesis2
+%%GLYPHS  dies_z.2 dies_x.2 dies_c.2 dies_v.2 dies_b.2 dies_n.2 dies_m.2 dies_a.2 dies_s.2 dies_d.2 dies_f.2 dies_g.2 dies_h.2 dies_j.2 dies_q.2 dies_w.2 dies_e.2 dies_r.2 dies_t.2 dies_y.2 dies_u.2 dies_one.2 dies_two.2 dies_three.2 dies_four.2 dies_five.2 dies_six.2 dies_seven.2 dies_eight.2 dies_nine.2 dies_zero.2
+%%END
+
+%%CLASS bemol2
+%%GLYPHS  bem_z.2 bem_x.2 bem_c.2 bem_v.2 bem_b.2 bem_n.2 bem_m.2 bem_a.2 bem_s.2 bem_d.2 bem_f.2 bem_g.2 bem_h.2 bem_j.2 bem_q.2 bem_w.2 bem_e.2 bem_r.2 bem_t.2 bem_y.2 bem_u.2 bem_one.2 bem_two.2 bem_three.2 bem_four.2 bem_five.2 bem_six.2 bem_seven.2 bem_eight.2 bem_nine.2 bem_zero.2
+%%END
+
+%%CLASS z.rfl
+%%GLYPHS  z.rfl z.mrfl z.brfl
+%%END
+
+%%CLASS x.rfl
+%%GLYPHS  x.rfl x.mrfl x.brfl
+%%END
+
+%%CLASS c.rfl
+%%GLYPHS  c.rfl c.mrfl c.brfl
+%%END
+
+%%CLASS v.rfl
+%%GLYPHS  v.rfl v.mrfl v.brfl
+%%END
+
+%%CLASS b.rfl
+%%GLYPHS  b.rfl b.mrfl b.brfl
+%%END
+
+%%CLASS n.rfl
+%%GLYPHS  n.rfl n.mrfl n.brfl
+%%END
+
+%%CLASS m.rfl
+%%GLYPHS  m.rfl m.mrfl m.brfl
+%%END
+
+%%CLASS a.rfl
+%%GLYPHS  a.rfl a.mrfl a.brfl
+%%END
+
+%%CLASS s.rfl
+%%GLYPHS  s.rfl s.mrfl s.brfl
+%%END
+
+%%CLASS d.rfl
+%%GLYPHS  d.rfl d.mrfl d.brfl
+%%END
+
+%%CLASS f.rfl
+%%GLYPHS  f.rfl f.mrfl f.brfl
+%%END
+
+%%CLASS g.rfl
+%%GLYPHS  g.rfl g.mrfl g.brfl
+%%END
+
+%%CLASS h.rfl
+%%GLYPHS  h.rfl h.mrfl h.brfl
+%%END
+
+%%CLASS j.rfl
+%%GLYPHS  j.rfl j.mrfl j.brfl
+%%END
+
+%%CLASS q.rfl
+%%GLYPHS  q.rfl q.mrfl q.brfl
+%%END
+
+%%CLASS w.rfl
+%%GLYPHS  w.rfl w.mrfl w.brfl
+%%END
+
+%%CLASS e.rfl
+%%GLYPHS  e.rfl e.mrfl e.brfl
+%%END
+
+%%CLASS r.rfl
+%%GLYPHS  r.rfl r.mrfl r.brfl
+%%END
+
+%%CLASS t.rfl
+%%GLYPHS  t.rfl t.mrfl t.brfl
+%%END
+
+%%CLASS y.rfl
+%%GLYPHS  y.rfl y.mrfl y.brfl
+%%END
+
+%%CLASS u.rfl
+%%GLYPHS  u.rfl u.mrfl u.brfl
+%%END
+
+%%CLASS one.rfl
+%%GLYPHS  one.rfl one.mrfl one.brfl
+%%END
+
+%%CLASS two.rfl
+%%GLYPHS  two.rfl two.mrfl two.brfl
+%%END
+
+%%CLASS three.rfl
+%%GLYPHS  three.rfl three.mrfl three.brfl
+%%END
+
+%%CLASS four.rfl
+%%GLYPHS  four.rfl four.mrfl four.brfl
+%%END
+
+%%CLASS five.rfl
+%%GLYPHS  five.rfl five.mrfl five.brfl
+%%END
+
+%%CLASS six.rfl
+%%GLYPHS  six.rfl six.mrfl six.brfl
+%%END
+
+%%CLASS seven.rfl
+%%GLYPHS  seven.rfl seven.mrfl seven.brfl
+%%END
+
+%%CLASS eight.rfl
+%%GLYPHS  eight.rfl eight.mrfl eight.brfl
+%%END
+
+%%CLASS nine.rfl
+%%GLYPHS  nine.rfl nine.mrfl nine.brfl
+%%END
+
+%%CLASS zero.rfl
+%%GLYPHS  zero.rfl zero.mrfl zero.brfl
+%%END
+
+%%CLASS z.lfl
+%%GLYPHS  z.lfl z.mlfl z.blfl
+%%END
+
+%%CLASS x.lfl
+%%GLYPHS  x.lfl x.mlfl x.blfl
+%%END
+
+%%CLASS c.lfl
+%%GLYPHS  c.lfl c.mlfl c.blfl
+%%END
+
+%%CLASS v.lfl
+%%GLYPHS  v.lfl v.mlfl v.blfl
+%%END
+
+%%CLASS b.lfl
+%%GLYPHS  b.lfl b.mlfl b.blfl
+%%END
+
+%%CLASS n.lfl
+%%GLYPHS  n.lfl n.mlfl n.blfl
+%%END
+
+%%CLASS m.lfl
+%%GLYPHS  m.lfl m.mlfl m.blfl
+%%END
+
+%%CLASS a.lfl
+%%GLYPHS  a.lfl a.mlfl a.blfl
+%%END
+
+%%CLASS s.lfl
+%%GLYPHS  s.lfl s.mlfl s.blfl
+%%END
+
+%%CLASS d.lfl
+%%GLYPHS  d.lfl d.mlfl d.blfl
+%%END
+
+%%CLASS f.lfl
+%%GLYPHS  f.lfl f.mlfl f.blfl
+%%END
+
+%%CLASS g.lfl
+%%GLYPHS  g.lfl g.mlfl g.blfl
+%%END
+
+%%CLASS h.lfl
+%%GLYPHS  h.lfl h.mlfl h.blfl
+%%END
+
+%%CLASS j.lfl
+%%GLYPHS  j.lfl j.mlfl j.blfl
+%%END
+
+%%CLASS q.lfl
+%%GLYPHS  q.lfl q.mlfl q.blfl
+%%END
+
+%%CLASS w.lfl
+%%GLYPHS  w.lfl w.mlfl w.blfl
+%%END
+
+%%CLASS e.lfl
+%%GLYPHS  e.lfl e.mlfl e.blfl
+%%END
+
+%%CLASS r.lfl
+%%GLYPHS  r.lfl r.mlfl r.blfl
+%%END
+
+%%CLASS t.lfl
+%%GLYPHS  t.lfl t.mlfl t.blfl
+%%END
+
+%%CLASS y.lfl
+%%GLYPHS  y.lfl y.mlfl y.blfl
+%%END
+
+%%CLASS u.lfl
+%%GLYPHS  u.lfl u.mlfl u.blfl
+%%END
+
+%%CLASS one.lfl
+%%GLYPHS  one.lfl one.mlfl one.blfl
+%%END
+
+%%CLASS two.lfl
+%%GLYPHS  two.lfl two.mlfl two.blfl
+%%END
+
+%%CLASS three.lfl
+%%GLYPHS  three.lfl three.mlfl three.blfl
+%%END
+
+%%CLASS four.lfl
+%%GLYPHS  four.lfl four.mlfl four.blfl
+%%END
+
+%%CLASS five.lfl
+%%GLYPHS  five.lfl five.mlfl five.blfl
+%%END
+
+%%CLASS six.lfl
+%%GLYPHS  six.lfl six.mlfl six.blfl
+%%END
+
+%%CLASS seven.lfl
+%%GLYPHS  seven.lfl seven.mlfl seven.blfl
+%%END
+
+%%CLASS eight.lfl
+%%GLYPHS  eight.lfl eight.mlfl eight.blfl
+%%END
+
+%%CLASS nine.lfl
+%%GLYPHS  nine.lfl nine.mlfl nine.blfl
+%%END
+
+%%CLASS zero.lfl
+%%GLYPHS  zero.lfl zero.mlfl zero.blfl
+%%END
+
+%%CLASS aup
+%%GLYPHS  j.inv q.inv w.inv e.inv r.inv t.inv y.inv u.inv one.inv two.inv three.inv four.inv five.inv six.inv seven.inv eight.inv nine.inv zero.inv J.inv Q.inv W.inv E.inv R.inv T.inv Y.inv U.inv exclam.inv at.inv numbersign.inv dollar.inv percent.inv asciicircum.inv ampersand.inv asterisk.inv parenleft.inv parenright.inv w x c v b n comma q s d f g h W X C V B N question Q S D F G H z.min x.min c.min v.min b.min n.min m.min a.min s.min d.min f.min g.min h.min j.imin q.imin w.imin e.imin r.imin t.imin y.imin u.imin one.imin two.imin three.imin four.imin five.imin six.imin seven.imin eight.imin nine.imin zero.imin
+%%END
+
+%%CLASS adown
+%%GLYPHS  j a z e r t y u ampersand eacute quotedbl quotesingle parenleft hyphen egrave underscore ccedilla agrave J A Z E R T Y U one two three four five six seven eight nine zero z.inv x.inv c.inv v.inv b.inv n.inv m.inv a.inv s.inv d.inv f.inv g.inv h.inv Z.inv X.inv C.inv V.inv B.inv N.inv M.inv A.inv S.inv D.inv F.inv G.inv H.inv z.imin x.imin c.imin v.imin b.imin n.imin m.imin a.imin s.imin d.imin f.imin g.imin h.imin j.min q.min w.min e.min r.min t.min y.min u.min one.min two.min three.min four.min five.min six.min seven.min eight.min nine.min zero.min
+%%END
+
+%%CLASS w
+%%GLYPHS  w W z.min z.bre z.tp
+%%END
+
+%%CLASS x
+%%GLYPHS  x X x.min x.bre x.tp
+%%END
+
+%%CLASS c
+%%GLYPHS  c C c.min c.bre c.tp
+%%END
+
+%%CLASS v
+%%GLYPHS  v V v.min v.bre v.tp
+%%END
+
+%%CLASS b
+%%GLYPHS  b B b.min b.bre b.tp
+%%END
+
+%%CLASS n
+%%GLYPHS  n N n.min n.bre n.tp
+%%END
+
+%%CLASS comma
+%%GLYPHS  comma question m.min m.bre m.tp
+%%END
+
+%%CLASS q
+%%GLYPHS  q Q a.min a.bre a.tp
+%%END
+
+%%CLASS s
+%%GLYPHS  s S s.min s.bre s.tp
+%%END
+
+%%CLASS d
+%%GLYPHS  d D d.min d.bre d.tp
+%%END
+
+%%CLASS f
+%%GLYPHS  f F f.min f.bre f.tp
+%%END
+
+%%CLASS g
+%%GLYPHS  g G g.min g.bre g.tp
+%%END
+
+%%CLASS h
+%%GLYPHS  h H h.min h.bre h.tp
+%%END
+
+%%CLASS j
+%%GLYPHS  j J j.min j.bre j.tp
+%%END
+
+%%CLASS a
+%%GLYPHS  a A q.min q.bre q.tp
+%%END
+
+%%CLASS z
+%%GLYPHS  z Z w.min w.bre w.tp
+%%END
+
+%%CLASS e
+%%GLYPHS  e E e.min e.bre e.tp
+%%END
+
+%%CLASS r
+%%GLYPHS  r R r.min r.bre r.tp
+%%END
+
+%%CLASS t
+%%GLYPHS  t T t.min t.bre t.tp
+%%END
+
+%%CLASS y
+%%GLYPHS  y Y y.min y.bre y.tp
+%%END
+
+%%CLASS u
+%%GLYPHS  u U u.min u.bre u.tp
+%%END
+
+%%CLASS ampersand
+%%GLYPHS  ampersand one one.min one.bre one.tp
+%%END
+
+%%CLASS eacute
+%%GLYPHS  eacute two two.min two.bre two.tp
+%%END
+
+%%CLASS quotedbl
+%%GLYPHS  quotedbl three three.min three.bre three.tp
+%%END
+
+%%CLASS quotesingle
+%%GLYPHS  quotesingle four four.min four.bre four.tp
+%%END
+
+%%CLASS parenleft
+%%GLYPHS  parenleft five five.min five.bre five.tp
+%%END
+
+%%CLASS hyphen
+%%GLYPHS  hyphen six six.min six.bre six.tp
+%%END
+
+%%CLASS egrave
+%%GLYPHS  egrave seven seven.min seven.bre seven.tp
+%%END
+
+%%CLASS underscore
+%%GLYPHS  underscore eight eight.min eight.bre eight.tp
+%%END
+
+%%CLASS ccedilla
+%%GLYPHS  ccedilla nine nine.min nine.bre nine.tp
+%%END
+
+%%CLASS agrave
+%%GLYPHS  agrave zero zero.min zero.bre zero.tp
+%%END
+
+%%CLASS zi
+%%GLYPHS  z.inv Z.inv z.imin z.tp
+%%END
+
+%%CLASS xi
+%%GLYPHS  x.inv X.inv x.imin x.tp
+%%END
+
+%%CLASS ci
+%%GLYPHS  c.inv C.inv c.imin c.tp
+%%END
+
+%%CLASS vi
+%%GLYPHS  v.inv V.inv v.imin v.tp
+%%END
+
+%%CLASS bi
+%%GLYPHS  b.inv B.inv b.imin b.tp
+%%END
+
+%%CLASS ni
+%%GLYPHS  n.inv N.inv n.imin n.tp
+%%END
+
+%%CLASS mi
+%%GLYPHS  m.inv M.inv m.imin m.tp
+%%END
+
+%%CLASS ai
+%%GLYPHS  a.inv A.inv a.imin a.tp
+%%END
+
+%%CLASS si
+%%GLYPHS  s.inv S.inv s.imin s.tp
+%%END
+
+%%CLASS di
+%%GLYPHS  d.inv D.inv d.imin d.tp
+%%END
+
+%%CLASS fi
+%%GLYPHS  f.inv F.inv f.imin f.tp
+%%END
+
+%%CLASS gi
+%%GLYPHS  g.inv G.inv g.imin g.tp
+%%END
+
+%%CLASS hi
+%%GLYPHS  h.inv H.inv h.imin h.tp
+%%END
+
+%%CLASS ji
+%%GLYPHS  j.inv J.inv j.imin j.tp
+%%END
+
+%%CLASS qi
+%%GLYPHS  q.inv Q.inv q.imin q.tp
+%%END
+
+%%CLASS wi
+%%GLYPHS  w.inv W.inv w.imin w.tp
+%%END
+
+%%CLASS ei
+%%GLYPHS  e.inv E.inv e.imin e.tp
+%%END
+
+%%CLASS ri
+%%GLYPHS  r.inv R.inv r.imin r.tp
+%%END
+
+%%CLASS ti
+%%GLYPHS  t.inv T.inv t.imin t.tp
+%%END
+
+%%CLASS yi
+%%GLYPHS  y.inv Y.inv y.imin y.tp
+%%END
+
+%%CLASS ui
+%%GLYPHS  u.inv U.inv u.imin u.tp
+%%END
+
+%%CLASS onei
+%%GLYPHS  one.inv exclam.inv one.imin one.tp
+%%END
+
+%%CLASS twoi
+%%GLYPHS  two.inv at.inv two.imin two.tp
+%%END
+
+%%CLASS threei
+%%GLYPHS  three.inv numbersign.inv three.imin three.tp
+%%END
+
+%%CLASS fouri
+%%GLYPHS  four.inv dollar.inv four.imin four.tp
+%%END
+
+%%CLASS fivei
+%%GLYPHS  five.inv percent.inv five.imin five.tp
+%%END
+
+%%CLASS sixi
+%%GLYPHS  six.inv asciicircum.inv six.imin six.tp
+%%END
+
+%%CLASS seveni
+%%GLYPHS  seven.inv ampersand.inv seven.imin seven.tp
+%%END
+
+%%CLASS eighti
+%%GLYPHS  eight.inv asterisk.inv eight.imin eight.tp
+%%END
+
+%%CLASS ninei
+%%GLYPHS  nine.inv parenleft.inv nine.imin nine.tp
+%%END
+
+%%CLASS zeroi
+%%GLYPHS  zero.inv parenright.inv zero.imin zero.tp
+%%END
+
+%%CLASS out1
+%%GLYPHS  agrave ampersand eacute quotedbl quotesingle parenleft hyphen egrave underscore ccedilla u.inv y.inv t.inv r.inv e.inv w.inv q.inv j.inv h.inv g.inv f.inv d.inv s.inv a.inv m.inv n.inv b.inv v.inv c.inv x.inv z.inv zero one two three four five six seven eight nine Q B C D E F G H J question N A R S T U V Z X Y W parenright.inv exclam.inv at.inv numbersign.inv dollar.inv percent.inv asciicircum.inv ampersand.inv asterisk.inv parenleft.inv A.inv B.inv C.inv D.inv E.inv F.inv G.inv H.inv J.inv M.inv N.inv Q.inv R.inv S.inv T.inv U.inv V.inv W.inv X.inv Y.inv Z.inv zero.min one.min two.min three.min four.min five.min six.min seven.min eight.min nine.min a.min b.min c.min d.min e.min f.min g.min h.min j.min m.min n.min q.min r.min s.min t.min u.min v.min w.min x.min y.min z.min zero.imin one.imin two.imin three.imin four.imin five.imin six.imin seven.imin eight.imin nine.imin a.imin b.imin c.imin d.imin e.imin f.imin g.imin h.imin j.imin m.imin n.imin q.imin r.imin s.imin t.imin u.imin v.imin w.imin x.imin y.imin z.inv z.bre x.bre c.bre v.bre b.bre n.bre m.bre a.bre s.bre d.bre f.bre g.bre h.bre j.bre q.bre w.bre e.bre r.bre t.bre y.bre u.bre one.bre two.bre three.bre four.bre five.bre six.bre seven.bre eight.bre nine.bre zero.bre a.rfl b.rfl c.rfl d.rfl e.rfl eight.rfl f.rfl five.rfl four.rfl g.rfl h.rfl j.rfl m.rfl n.rfl nine.rfl one.rfl q.rfl r.rfl s.rfl seven.rfl six.rfl t.rfl three.rfl two.rfl u.rfl v.rfl w.rfl x.rfl y.rfl z.rfl zero.rfl z.mrfl x.mrfl c.mrfl v.mrfl b.mrfl n.mrfl m.mrfl a.mrfl s.mrfl d.mrfl f.mrfl g.mrfl h.mrfl j.mrfl q.mrfl w.mrfl e.mrfl r.mrfl t.mrfl y.mrfl u.mrfl one.mrfl two.mrfl three.mrfl four.mrfl five.mrfl six.mrfl seven.mrfl eight.mrfl nine.mrfl zero.mrfl z.brfl x.brfl c.brfl v.brfl b.brfl n.brfl m.brfl a.brfl s.brfl d.brfl f.brfl g.brfl h.brfl j.brfl q.brfl w.brfl e.brfl r.brfl t.brfl y.brfl u.brfl one.brfl two.brfl three.brfl four.brfl five.brfl six.brfl seven.brfl eight.brfl nine.brfl zero.brfl a.lfl b.lfl c.lfl d.lfl e.lfl eight.lfl f.lfl five.lfl four.lfl g.lfl h.lfl j.lfl m.lfl n.lfl nine.lfl one.lfl q.lfl r.lfl s.lfl seven.lfl six.lfl t.lfl three.lfl two.lfl u.lfl v.lfl w.lfl x.lfl y.lfl z.lfl zero.lfl z.mlfl x.mlfl c.mlfl v.mlfl b.mlfl n.mlfl m.mlfl a.mlfl s.mlfl d.mlfl f.mlfl g.mlfl h.mlfl j.mlfl q.mlfl w.mlfl e.mlfl r.mlfl t.mlfl y.mlfl u.mlfl one.mlfl two.mlfl three.mlfl four.mlfl five.mlfl six.mlfl seven.mlfl eight.mlfl nine.mlfl zero.mlfl z.blfl x.blfl c.blfl v.blfl b.blfl n.blfl m.blfl a.blfl s.blfl d.blfl f.blfl g.blfl h.blfl j.blfl q.blfl w.blfl e.blfl r.blfl t.blfl y.blfl u.blfl one.blfl two.blfl three.blfl four.blfl five.blfl six.blfl seven.blfl eight.blfl nine.blfl zero.blfl punt_c3 punt_e3 punt_g3 punt_b3 qpunt_d4 qpunt_f4 qpunt_a4 qpunt_c5 qpunt_e5 qpunt_g5 qpunt_b5 qpunt_d6 qpunt_f6 qpunt_a6 qpunt_c7 qpunt_e7 rpunt_e3 rpunt_g3 rpunt_b3 rpunt_d4 rpunt_f4 rpunt_a4 rpunt_c5 rpunt_e5 rpunt_g5 rpunt_b5 rpunt_d6 rpunt_f6 rpunt_a6 rpunt_c7 rpunt_e7 lpunt_e3 lpunt_g3 lpunt_b3 lpunt_d4 lpunt_f4 lpunt_a4 lpunt_c5 lpunt_e5 lpunt_g5 lpunt_b5 lpunt_d6 lpunt_f6 lpunt_a6 lpunt_c7 lpunt_e7 dies_z dies_x dies_c dies_v dies_b dies_n dies_m dies_a dies_s dies_d dies_f dies_g dies_h dies_j dies_q dies_w dies_e dies_r dies_t dies_y dies_u dies_one dies_two dies_three dies_four dies_five dies_six dies_seven dies_eight dies_nine dies_zero bem_z bem_x bem_c bem_v bem_b bem_n bem_m bem_a bem_s bem_d bem_f bem_g bem_h bem_j bem_q bem_w bem_e bem_r bem_t bem_y bem_u bem_one bem_two bem_three bem_four bem_five bem_six bem_seven bem_eight bem_nine bem_zero natu natu_z natu_x natu_c natu_v natu_b natu_n natu_m natu_a natu_s natu_d natu_f natu_g natu_h natu_j natu_q natu_w natu_e natu_r natu_t natu_y natu_u natu_one natu_two natu_three natu_four natu_five natu_six natu_seven natu_eight natu_nine natu_zero ddies ddies_z ddies_x ddies_c ddies_v ddies_b ddies_n ddies_m ddies_a ddies_s ddies_d ddies_f ddies_g ddies_h ddies_j ddies_q ddies_w ddies_e ddies_r ddies_t ddies_y ddies_u ddies_one ddies_two ddies_three ddies_four ddies_five ddies_six ddies_seven ddies_eight ddies_nine ddies_zero bbem_z bbem_x bbem_c bbem_v bbem_b bbem_n bbem_m bbem_a bbem_s bbem_d bbem_f bbem_g bbem_h bbem_j bbem_q bbem_w bbem_e bbem_r bbem_t bbem_y bbem_u bbem_one bbem_two bbem_three bbem_four bbem_five bbem_six bbem_seven bbem_eight bbem_nine bbem_zero stac_a2 stac_b2 stac_c3 stac_d3 stac_e3 stac_f3 stac_g3 stac_a3 stac_b3 stac_c4 stac_d4 stac_f4 stac_a4 stac_c5 stac_e5 stac_g5 stac_b5 stac_d6 stac_f6 stac_a6 stac_c7 stacs_a2 stacs_b2 stacs_c3 stacs_d3 stacs_e3 stacs_f3 stacs_g3 stacs_a3 stacs_b3 stacs_c4 stacs_d4 stacs_f4 stacs_a4 stacs_c5 stacs_e5 stacs_g5 stacs_b5 stacs_d6 stacs_f6 stacs_a6 stacs_c7 tenu_a2 tenu_b2 tenu_c3 tenu_d3 tenu_e3 tenu_f3 tenu_g3 tenu_a3 tenu_b3 tenu_c4 tenu_d4 tenu_f4 tenu_a4 tenu_c5 tenu_e5 tenu_g5 tenu_b5 tenu_d6 tenu_f6 tenu_a6 tenu_c7 asterisk mu greater stac_a5 stac_c6 stac_e6 stac_g6 stac_b6 stac_d7 stac_e7 stac_f7 stac_g7 tenu_a5 tenu_c6 tenu_e6 tenu_g6 tenu_b6 tenu_d7 tenu_e7 tenu_f7 tenu_g7 stacs_a5 stacs_c6 stacs_e6 stacs_g6 stacs_b6 stacs_d7 stacs_e7 stacs_f7 stacs_g7 acc_a2 acc_b2 acc_c3 acc_d3 acc_e3 acc_f3 acc_g3 acc_a3 acc_b3 acc_c4 acc_d4 acc_f4 acc_a4 acc_c5 acc_e5 acc_g5 acc_a5 acc_b5 acc_c6 acc_d6 acc_e6 acc_f6 acc_g6 acc_a6 acc_b6 acc_c7 acc_d7 acc_e7 acc_f7 acc_g7 dies_z.2 dies_x.2 dies_c.2 dies_v.2 dies_b.2 dies_n.2 dies_m.2 dies_a.2 dies_s.2 dies_d.2 dies_f.2 dies_g.2 dies_h.2 dies_j.2 dies_q.2 dies_w.2 dies_e.2 dies_r.2 dies_t.2 dies_y.2 dies_u.2 dies_one.2 dies_two.2 dies_three.2 dies_four.2 dies_five.2 dies_six.2 dies_seven.2 dies_eight.2 dies_nine.2 dies_zero.2 bem_z.2 bem_x.2 bem_c.2 bem_v.2 bem_b.2 bem_n.2 bem_m.2 bem_a.2 bem_s.2 bem_d.2 bem_f.2 bem_g.2 bem_h.2 bem_j.2 bem_q.2 bem_w.2 bem_e.2 bem_r.2 bem_t.2 bem_y.2 bem_u.2 bem_one.2 bem_two.2 bem_three.2 bem_four.2 bem_five.2 bem_six.2 bem_seven.2 bem_eight.2 bem_nine.2 bem_zero.2 natu_z.2 natu_x.2 natu_c.2 natu_v.2 natu_b.2 natu_n.2 natu_m.2 natu_a.2 natu_s.2 natu_d.2 natu_f.2 natu_g.2 natu_h.2 natu_j.2 natu_q.2 natu_w.2 natu_e.2 natu_r.2 natu_t.2 natu_y.2 natu_u.2 natu_one.2 natu_two.2 natu_three.2 natu_four.2 natu_five.2 natu_six.2 natu_seven.2 natu_eight.2 natu_nine.2 natu_zero.2 ddies_z.2 ddies_x.2 ddies_c.2 ddies_v.2 ddies_b.2 ddies_n.2 ddies_m.2 ddies_a.2 ddies_s.2 ddies_d.2 ddies_f.2 ddies_g.2 ddies_h.2 ddies_j.2 ddies_q.2 ddies_w.2 ddies_e.2 ddies_r.2 ddies_t.2 ddies_y.2 ddies_u.2 ddies_one.2 ddies_two.2 ddies_three.2 ddies_four.2 ddies_five.2 ddies_six.2 ddies_seven.2 ddies_eight.2 ddies_nine.2 ddies_zero.2 bbem_z.2 bbem_x.2 bbem_c.2 bbem_v.2 bbem_b.2 bbem_n.2 bbem_m.2 bbem_a.2 bbem_s.2 bbem_d.2 bbem_f.2 bbem_g.2 bbem_h.2 bbem_j.2 bbem_q.2 bbem_w.2 bbem_e.2 bbem_r.2 bbem_t.2 bbem_y.2 bbem_u.2 bbem_one.2 bbem_two.2 bbem_three.2 bbem_four.2 bbem_five.2 bbem_six.2 bbem_seven.2 bbem_eight.2 bbem_nine.2 bbem_zero.2 dies_z.3 dies_x.3 dies_c.3 dies_v.3 dies_b.3 dies_n.3 dies_m.3 dies_a.3 dies_s.3 dies_d.3 dies_f.3 dies_g.3 dies_h.3 dies_j.3 dies_q.3 dies_w.3 dies_e.3 dies_r.3 dies_t.3 dies_y.3 dies_u.3 dies_one.3 dies_two.3 dies_three.3 dies_four.3 dies_five.3 dies_six.3 dies_seven.3 dies_eight.3 dies_nine.3 dies_zero.3 bem_z.3 bem_x.3 bem_c.3 bem_v.3 bem_b.3 bem_n.3 bem_m.3 bem_a.3 bem_s.3 bem_d.3 bem_f.3 bem_g.3 bem_h.3 bem_j.3 bem_q.3 bem_w.3 bem_e.3 bem_r.3 bem_t.3 bem_y.3 bem_u.3 bem_one.3 bem_two.3 bem_three.3 bem_four.3 bem_five.3 bem_six.3 bem_seven.3 bem_eight.3 bem_nine.3 bem_zero.3 natu_z.3 natu_x.3 natu_c.3 natu_v.3 natu_b.3 natu_n.3 natu_m.3 natu_a.3 natu_s.3 natu_d.3 natu_f.3 natu_g.3 natu_h.3 natu_j.3 natu_q.3 natu_w.3 natu_e.3 natu_r.3 natu_t.3 natu_y.3 natu_u.3 natu_one.3 natu_two.3 natu_three.3 natu_four.3 natu_five.3 natu_six.3 natu_seven.3 natu_eight.3 natu_nine.3 natu_zero.3 ddies_z.3 ddies_x.3 ddies_c.3 ddies_v.3 ddies_b.3 ddies_n.3 ddies_m.3 ddies_a.3 ddies_s.3 ddies_d.3 ddies_f.3 ddies_g.3 ddies_h.3 ddies_j.3 ddies_q.3 ddies_w.3 ddies_e.3 ddies_r.3 ddies_t.3 ddies_y.3 ddies_u.3 ddies_one.3 ddies_two.3 ddies_three.3 ddies_four.3 ddies_five.3 ddies_six.3 ddies_seven.3 ddies_eight.3 ddies_nine.3 ddies_zero.3 bbem_z.3 bbem_x.3 bbem_c.3 bbem_v.3 bbem_b.3 bbem_n.3 bbem_m.3 bbem_a.3 bbem_s.3 bbem_d.3 bbem_f.3 bbem_g.3 bbem_h.3 bbem_j.3 bbem_q.3 bbem_w.3 bbem_e.3 bbem_r.3 bbem_t.3 bbem_y.3 bbem_u.3 bbem_one.3 bbem_two.3 bbem_three.3 bbem_four.3 bbem_five.3 bbem_six.3 bbem_seven.3 bbem_eight.3 bbem_nine.3 bbem_zero.3 d_zz d_zx d_zc d_zv d_xx d_xc d_xv d_xb d_cc d_cv d_cb d_cn d_vv d_vb d_vn d_vm d_bb d_bn d_bm d_ba d_nn d_nm d_na d_ns d_mm d_ma d_ms d_md d_aa d_as d_ad d_af d_ss d_sd d_sf d_sg d_dd d_df d_dg d_dh d_ff d_fg d_fh d_fj d_gg d_gh d_gj d_gq d_hh d_hj d_hq d_hw d_jj d_jq d_jw d_je d_qq d_qw d_qe d_qr d_ww d_we d_wr d_wt d_ee d_er d_et d_ey d_rr d_rt d_ry d_ru d_tt d_ty d_tu d_t1 d_yy d_yu d_y1 d_y2 d_uu d_u1 d_u2 d_u3 d_11 d_12 d_13 d_14 d_22 d_23 d_24 d_25 d_33 d_34 d_35 d_36 d_44 d_45 d_46 d_55 d_56 d_57 d_66 d_67 d_68 d_77 d_78 d_79 d_88 d_89 d_80 d_99 d_90 d_00 bm d_xz d_cz d_vz d_cx d_vx d_bx d_vc d_bc d_nc d_bv d_nv d_mv d_nb d_mb d_ab d_mn d_an d_sn d_am d_sm d_dm d_sa d_da d_fa d_ds d_fs d_gs d_fd d_gd d_hd d_gf d_hf d_jf d_hg d_jg d_qg d_jh d_qh d_wh d_qj d_wj d_ej d_wq d_eq d_rq d_ew d_rw d_tw d_re d_te d_ye d_tr d_yr d_ur d_yt d_ut d_1t d_uy d_1y d_2y d_1u d_2u d_3u d_21 d_31 d_41 d_32 d_42 d_52 d_43 d_53 d_63 d_54 d_64 d_74 d_65 d_75 d_85 d_76 d_86 d_96 d_87 d_97 d_07 d_98 d_08 d_09 p_c4 p_b3 p_a3 p_g3 p_f3 p_e3 p_d3 f_c4 f_b3 f_a3 f_g3 f_f3 f_e3 f_d3 ppp_d4 ppp_c4 ppp_b3 ppp_a3 ppp_g3 ppp_f3 ppp_e3 ppp_d3 pp_d4 pp_c4 pp_b3 pp_a3 pp_g3 pp_f3 pp_e3 pp_d3 mp_d4 mp_c4 mp_b3 mp_a3 mp_g3 mp_f3 mp_e3 mp_d3 mf_d4 mf_c4 mf_b3 mf_a3 mf_g3 mf_f3 mf_e3 mf_d3 ff_d4 ff_c4 ff_b3 ff_a3 ff_g3 ff_f3 ff_e3 ff_d3 fff_d4 fff_c4 fff_b3 fff_a3 fff_g3 fff_f3 fff_e3 fff_d3 sfz_d4 sfz_c4 sfz_b3 sfz_a3 sfz_g3 sfz_f3 sfz_e3 sfz_d3 fp_d4 fp_c4 fp_b3 fp_a3 fp_g3 fp_f3 fp_e3 fp_d3
+%%END
+
+%%CLASS out2
+%%GLYPHS  punt_c3 punt_e3 punt_g3 punt_b3 punt_d4 punt_f4 punt_a4 punt_c5 punt_e5 punt_g5 punt_b5 punt_d6 punt_f6 punt_a6 punt_c7 punt_e7 qpunt_d4 qpunt_f4 qpunt_a4 qpunt_c5 qpunt_e5 qpunt_g5 qpunt_b5 qpunt_d6 qpunt_f6 qpunt_a6 qpunt_c7 qpunt_e7 rpunt_e3 rpunt_g3 rpunt_b3 rpunt_d4 rpunt_f4 rpunt_a4 rpunt_c5 rpunt_e5 rpunt_g5 rpunt_b5 rpunt_d6 rpunt_f6 rpunt_a6 rpunt_c7 rpunt_e7 lpunt_e3 lpunt_g3 lpunt_b3 lpunt_d4 lpunt_f4 lpunt_a4 lpunt_c5 lpunt_e5 lpunt_g5 lpunt_b5 lpunt_d6 lpunt_f6 lpunt_a6 lpunt_c7 lpunt_e7 stac_a2 stac_b2 stac_c3 stac_d3 stac_e3 stac_f3 stac_g3 stac_a3 stac_b3 stac_c4 stac_d4 stac_f4 stac_a4 stac_c5 stac_e5 stac_g5 stac_b5 stac_d6 stac_f6 stac_a6 stac_c7 stacs_a2 stacs_b2 stacs_c3 stacs_d3 stacs_e3 stacs_f3 stacs_g3 stacs_a3 stacs_b3 stacs_c4 stacs_d4 stacs_f4 stacs_a4 stacs_c5 stacs_e5 stacs_g5 stacs_b5 stacs_d6 stacs_f6 stacs_a6 stacs_c7 tenu_a2 tenu_b2 tenu_c3 tenu_d3 tenu_e3 tenu_f3 tenu_g3 tenu_a3 tenu_b3 tenu_c4 tenu_d4 tenu_f4 tenu_a4 tenu_c5 tenu_e5 tenu_g5 tenu_b5 tenu_d6 tenu_f6 tenu_a6 tenu_c7 asterisk mu greater stac_a5 stac_c6 stac_e6 stac_g6 stac_b6 stac_d7 stac_e7 stac_f7 stac_g7 tenu_a5 tenu_c6 tenu_e6 tenu_g6 tenu_b6 tenu_d7 tenu_e7 tenu_f7 tenu_g7 stacs_a5 stacs_c6 stacs_e6 stacs_g6 stacs_b6 stacs_d7 stacs_e7 stacs_f7 stacs_g7 acc_a2 acc_b2 acc_c3 acc_d3 acc_e3 acc_f3 acc_g3 acc_a3 acc_b3 acc_c4 acc_d4 acc_f4 acc_a4 acc_c5 acc_e5 acc_g5 acc_a5 acc_b5 acc_c6 acc_d6 acc_e6 acc_f6 acc_g6 acc_a6 acc_b6 acc_c7 acc_d7 acc_e7 acc_f7 acc_g7 dies_z dies_x dies_c dies_v dies_b dies_n dies_m dies_a dies_s dies_d dies_f dies_g dies_h dies_j dies_q dies_w dies_e dies_r dies_t dies_y dies_u dies_one dies_two dies_three dies_four dies_five dies_six dies_seven dies_eight dies_nine dies_zero bem_z bem_x bem_c bem_v bem_b bem_n bem_m bem_a bem_s bem_d bem_f bem_g bem_h bem_j bem_q bem_w bem_e bem_r bem_t bem_y bem_u bem_one bem_two bem_three bem_four bem_five bem_six bem_seven bem_eight bem_nine bem_zero natu natu_z natu_x natu_c natu_v natu_b natu_n natu_m natu_a natu_s natu_d natu_f natu_g natu_h natu_j natu_q natu_w natu_e natu_r natu_t natu_y natu_u natu_one natu_two natu_three natu_four natu_five natu_six natu_seven natu_eight natu_nine natu_zero ddies ddies_z ddies_x ddies_c ddies_v ddies_b ddies_n ddies_m ddies_a ddies_s ddies_d ddies_f ddies_g ddies_h ddies_j ddies_q ddies_w ddies_e ddies_r ddies_t ddies_y ddies_u ddies_one ddies_two ddies_three ddies_four ddies_five ddies_six ddies_seven ddies_eight ddies_nine ddies_zero bbem_z bbem_x bbem_c bbem_v bbem_b bbem_n bbem_m bbem_a bbem_s bbem_d bbem_f bbem_g bbem_h bbem_j bbem_q bbem_w bbem_e bbem_r bbem_t bbem_y bbem_u bbem_one bbem_two bbem_three bbem_four bbem_five bbem_six bbem_seven bbem_eight bbem_nine bbem_zero a.rfl b.rfl c.rfl d.rfl e.rfl eight.rfl f.rfl five.rfl four.rfl g.rfl h.rfl j.rfl m.rfl n.rfl nine.rfl one.rfl q.rfl r.rfl s.rfl seven.rfl six.rfl t.rfl three.rfl two.rfl u.rfl v.rfl w.rfl x.rfl y.rfl z.rfl zero.rfl z.mrfl x.mrfl c.mrfl v.mrfl b.mrfl n.mrfl m.mrfl a.mrfl s.mrfl d.mrfl f.mrfl g.mrfl h.mrfl j.mrfl q.mrfl w.mrfl e.mrfl r.mrfl t.mrfl y.mrfl u.mrfl one.mrfl two.mrfl three.mrfl four.mrfl five.mrfl six.mrfl seven.mrfl eight.mrfl nine.mrfl zero.mrfl z.brfl x.brfl c.brfl v.brfl b.brfl n.brfl m.brfl a.brfl s.brfl d.brfl f.brfl g.brfl h.brfl j.brfl q.brfl w.brfl e.brfl r.brfl t.brfl y.brfl u.brfl one.brfl two.brfl three.brfl four.brfl five.brfl six.brfl seven.brfl eight.brfl nine.brfl zero.brfl a.lfl b.lfl c.lfl d.lfl e.lfl eight.lfl f.lfl five.lfl four.lfl g.lfl h.lfl j.lfl m.lfl n.lfl nine.lfl one.lfl q.lfl r.lfl s.lfl seven.lfl six.lfl t.lfl three.lfl two.lfl u.lfl v.lfl w.lfl x.lfl y.lfl z.lfl zero.lfl z.mlfl x.mlfl c.mlfl v.mlfl b.mlfl n.mlfl m.mlfl a.mlfl s.mlfl d.mlfl f.mlfl g.mlfl h.mlfl j.mlfl q.mlfl w.mlfl e.mlfl r.mlfl t.mlfl y.mlfl u.mlfl one.mlfl two.mlfl three.mlfl four.mlfl five.mlfl six.mlfl seven.mlfl eight.mlfl nine.mlfl zero.mlfl z.blfl x.blfl c.blfl v.blfl b.blfl n.blfl m.blfl a.blfl s.blfl d.blfl f.blfl g.blfl h.blfl j.blfl q.blfl w.blfl e.blfl r.blfl t.blfl y.blfl u.blfl one.blfl two.blfl three.blfl four.blfl five.blfl six.blfl seven.blfl eight.blfl nine.blfl zero.blfl dies_z.2 dies_x.2 dies_c.2 dies_v.2 dies_b.2 dies_n.2 dies_m.2 dies_a.2 dies_s.2 dies_d.2 dies_f.2 dies_g.2 dies_h.2 dies_j.2 dies_q.2 dies_w.2 dies_e.2 dies_r.2 dies_t.2 dies_y.2 dies_u.2 dies_one.2 dies_two.2 dies_three.2 dies_four.2 dies_five.2 dies_six.2 dies_seven.2 dies_eight.2 dies_nine.2 dies_zero.2 bem_z.2 bem_x.2 bem_c.2 bem_v.2 bem_b.2 bem_n.2 bem_m.2 bem_a.2 bem_s.2 bem_d.2 bem_f.2 bem_g.2 bem_h.2 bem_j.2 bem_q.2 bem_w.2 bem_e.2 bem_r.2 bem_t.2 bem_y.2 bem_u.2 bem_one.2 bem_two.2 bem_three.2 bem_four.2 bem_five.2 bem_six.2 bem_seven.2 bem_eight.2 bem_nine.2 bem_zero.2 natu_z.2 natu_x.2 natu_c.2 natu_v.2 natu_b.2 natu_n.2 natu_m.2 natu_a.2 natu_s.2 natu_d.2 natu_f.2 natu_g.2 natu_h.2 natu_j.2 natu_q.2 natu_w.2 natu_e.2 natu_r.2 natu_t.2 natu_y.2 natu_u.2 natu_one.2 natu_two.2 natu_three.2 natu_four.2 natu_five.2 natu_six.2 natu_seven.2 natu_eight.2 natu_nine.2 natu_zero.2 ddies_z.2 ddies_x.2 ddies_c.2 ddies_v.2 ddies_b.2 ddies_n.2 ddies_m.2 ddies_a.2 ddies_s.2 ddies_d.2 ddies_f.2 ddies_g.2 ddies_h.2 ddies_j.2 ddies_q.2 ddies_w.2 ddies_e.2 ddies_r.2 ddies_t.2 ddies_y.2 ddies_u.2 ddies_one.2 ddies_two.2 ddies_three.2 ddies_four.2 ddies_five.2 ddies_six.2 ddies_seven.2 ddies_eight.2 ddies_nine.2 ddies_zero.2 bbem_z.2 bbem_x.2 bbem_c.2 bbem_v.2 bbem_b.2 bbem_n.2 bbem_m.2 bbem_a.2 bbem_s.2 bbem_d.2 bbem_f.2 bbem_g.2 bbem_h.2 bbem_j.2 bbem_q.2 bbem_w.2 bbem_e.2 bbem_r.2 bbem_t.2 bbem_y.2 bbem_u.2 bbem_one.2 bbem_two.2 bbem_three.2 bbem_four.2 bbem_five.2 bbem_six.2 bbem_seven.2 bbem_eight.2 bbem_nine.2 bbem_zero.2 dies_z.3 dies_x.3 dies_c.3 dies_v.3 dies_b.3 dies_n.3 dies_m.3 dies_a.3 dies_s.3 dies_d.3 dies_f.3 dies_g.3 dies_h.3 dies_j.3 dies_q.3 dies_w.3 dies_e.3 dies_r.3 dies_t.3 dies_y.3 dies_u.3 dies_one.3 dies_two.3 dies_three.3 dies_four.3 dies_five.3 dies_six.3 dies_seven.3 dies_eight.3 dies_nine.3 dies_zero.3 bem_z.3 bem_x.3 bem_c.3 bem_v.3 bem_b.3 bem_n.3 bem_m.3 bem_a.3 bem_s.3 bem_d.3 bem_f.3 bem_g.3 bem_h.3 bem_j.3 bem_q.3 bem_w.3 bem_e.3 bem_r.3 bem_t.3 bem_y.3 bem_u.3 bem_one.3 bem_two.3 bem_three.3 bem_four.3 bem_five.3 bem_six.3 bem_seven.3 bem_eight.3 bem_nine.3 bem_zero.3 natu_z.3 natu_x.3 natu_c.3 natu_v.3 natu_b.3 natu_n.3 natu_m.3 natu_a.3 natu_s.3 natu_d.3 natu_f.3 natu_g.3 natu_h.3 natu_j.3 natu_q.3 natu_w.3 natu_e.3 natu_r.3 natu_t.3 natu_y.3 natu_u.3 natu_one.3 natu_two.3 natu_three.3 natu_four.3 natu_five.3 natu_six.3 natu_seven.3 natu_eight.3 natu_nine.3 natu_zero.3 ddies_z.3 ddies_x.3 ddies_c.3 ddies_v.3 ddies_b.3 ddies_n.3 ddies_m.3 ddies_a.3 ddies_s.3 ddies_d.3 ddies_f.3 ddies_g.3 ddies_h.3 ddies_j.3 ddies_q.3 ddies_w.3 ddies_e.3 ddies_r.3 ddies_t.3 ddies_y.3 ddies_u.3 ddies_one.3 ddies_two.3 ddies_three.3 ddies_four.3 ddies_five.3 ddies_six.3 ddies_seven.3 ddies_eight.3 ddies_nine.3 ddies_zero.3 bbem_z.3 bbem_x.3 bbem_c.3 bbem_v.3 bbem_b.3 bbem_n.3 bbem_m.3 bbem_a.3 bbem_s.3 bbem_d.3 bbem_f.3 bbem_g.3 bbem_h.3 bbem_j.3 bbem_q.3 bbem_w.3 bbem_e.3 bbem_r.3 bbem_t.3 bbem_y.3 bbem_u.3 bbem_one.3 bbem_two.3 bbem_three.3 bbem_four.3 bbem_five.3 bbem_six.3 bbem_seven.3 bbem_eight.3 bbem_nine.3 bbem_zero.3 p_c4 p_b3 p_a3 p_g3 p_f3 p_e3 p_d3 f_c4 f_b3 f_a3 f_g3 f_f3 f_e3 f_d3 ppp_d4 ppp_c4 ppp_b3 ppp_a3 ppp_g3 ppp_f3 ppp_e3 ppp_d3 pp_d4 pp_c4 pp_b3 pp_a3 pp_g3 pp_f3 pp_e3 pp_d3 mp_d4 mp_c4 mp_b3 mp_a3 mp_g3 mp_f3 mp_e3 mp_d3 mf_d4 mf_c4 mf_b3 mf_a3 mf_g3 mf_f3 mf_e3 mf_d3 ff_d4 ff_c4 ff_b3 ff_a3 ff_g3 ff_f3 ff_e3 ff_d3 fff_d4 fff_c4 fff_b3 fff_a3 fff_g3 fff_f3 fff_e3 fff_d3 sfz_d4 sfz_c4 sfz_b3 sfz_a3 sfz_g3 sfz_f3 sfz_e3 sfz_d3 fp_d4 fp_c4 fp_b3 fp_a3 fp_g3 fp_f3 fp_e3 fp_d3
+%%END
+
+%%CLASS out3
+%%GLYPHS  j.inv q.inv w.inv e.inv r.inv t.inv y.inv u.inv one.inv two.inv three.inv four.inv five.inv six.inv seven.inv eight.inv nine.inv zero.inv w x c v b n comma q s d f g h zero one two three four five six seven eight nine Q B C D E F G H J question N A R S T U V Z X Y W parenright.inv exclam.inv at.inv numbersign.inv dollar.inv percent.inv asciicircum.inv ampersand.inv asterisk.inv parenleft.inv A.inv B.inv C.inv D.inv E.inv F.inv G.inv H.inv J.inv M.inv N.inv Q.inv R.inv S.inv T.inv U.inv V.inv W.inv X.inv Y.inv Z.inv zero.min one.min two.min three.min four.min five.min six.min seven.min eight.min nine.min a.min b.min c.min d.min e.min f.min g.min h.min j.min m.min n.min q.min r.min s.min t.min u.min v.min w.min x.min y.min z.min zero.imin one.imin two.imin three.imin four.imin five.imin six.imin seven.imin eight.imin nine.imin a.imin b.imin c.imin d.imin e.imin f.imin g.imin h.imin j.imin m.imin n.imin q.imin r.imin s.imin t.imin u.imin v.imin w.imin x.imin y.imin z.inv z.bre x.bre c.bre v.bre b.bre n.bre m.bre a.bre s.bre d.bre f.bre g.bre h.bre j.bre q.bre w.bre e.bre r.bre t.bre y.bre u.bre one.bre two.bre three.bre four.bre five.bre six.bre seven.bre eight.bre nine.bre zero.bre a.rfl b.rfl c.rfl d.rfl e.rfl eight.rfl f.rfl five.rfl four.rfl g.rfl h.rfl j.rfl m.rfl n.rfl nine.rfl one.rfl q.rfl r.rfl s.rfl seven.rfl six.rfl t.rfl three.rfl two.rfl u.rfl v.rfl w.rfl x.rfl y.rfl z.rfl zero.rfl z.mrfl x.mrfl c.mrfl v.mrfl b.mrfl n.mrfl m.mrfl a.mrfl s.mrfl d.mrfl f.mrfl g.mrfl h.mrfl j.mrfl q.mrfl w.mrfl e.mrfl r.mrfl t.mrfl y.mrfl u.mrfl one.mrfl two.mrfl three.mrfl four.mrfl five.mrfl six.mrfl seven.mrfl eight.mrfl nine.mrfl zero.mrfl z.brfl x.brfl c.brfl v.brfl b.brfl n.brfl m.brfl a.brfl s.brfl d.brfl f.brfl g.brfl h.brfl j.brfl q.brfl w.brfl e.brfl r.brfl t.brfl y.brfl u.brfl one.brfl two.brfl three.brfl four.brfl five.brfl six.brfl seven.brfl eight.brfl nine.brfl zero.brfl a.lfl b.lfl c.lfl d.lfl e.lfl eight.lfl f.lfl five.lfl four.lfl g.lfl h.lfl j.lfl m.lfl n.lfl nine.lfl one.lfl q.lfl r.lfl s.lfl seven.lfl six.lfl t.lfl three.lfl two.lfl u.lfl v.lfl w.lfl x.lfl y.lfl z.lfl zero.lfl z.mlfl x.mlfl c.mlfl v.mlfl b.mlfl n.mlfl m.mlfl a.mlfl s.mlfl d.mlfl f.mlfl g.mlfl h.mlfl j.mlfl q.mlfl w.mlfl e.mlfl r.mlfl t.mlfl y.mlfl u.mlfl one.mlfl two.mlfl three.mlfl four.mlfl five.mlfl six.mlfl seven.mlfl eight.mlfl nine.mlfl zero.mlfl z.blfl x.blfl c.blfl v.blfl b.blfl n.blfl m.blfl a.blfl s.blfl d.blfl f.blfl g.blfl h.blfl j.blfl q.blfl w.blfl e.blfl r.blfl t.blfl y.blfl u.blfl one.blfl two.blfl three.blfl four.blfl five.blfl six.blfl seven.blfl eight.blfl nine.blfl zero.blfl punt_c3 punt_e3 punt_g3 punt_b3 punt_d4 punt_f4 punt_a4 punt_c5 punt_e5 punt_g5 punt_b5 punt_d6 punt_f6 punt_a6 punt_c7 punt_e7 qpunt_d4 qpunt_f4 qpunt_a4 qpunt_c5 qpunt_e5 qpunt_g5 qpunt_b5 qpunt_d6 qpunt_f6 qpunt_a6 qpunt_c7 qpunt_e7 rpunt_e3 rpunt_g3 rpunt_b3 rpunt_d4 rpunt_f4 rpunt_a4 rpunt_c5 rpunt_e5 rpunt_g5 rpunt_b5 rpunt_d6 rpunt_f6 rpunt_a6 rpunt_c7 rpunt_e7 lpunt_e3 lpunt_g3 lpunt_b3 lpunt_d4 lpunt_f4 lpunt_a4 lpunt_c5 lpunt_e5 lpunt_g5 lpunt_b5 lpunt_d6 lpunt_f6 lpunt_a6 lpunt_c7 lpunt_e7 dies_z dies_x dies_c dies_v dies_b dies_n dies_m dies_a dies_s dies_d dies_f dies_g dies_h dies_j dies_q dies_w dies_e dies_r dies_t dies_y dies_u dies_one dies_two dies_three dies_four dies_five dies_six dies_seven dies_eight dies_nine dies_zero bem_z bem_x bem_c bem_v bem_b bem_n bem_m bem_a bem_s bem_d bem_f bem_g bem_h bem_j bem_q bem_w bem_e bem_r bem_t bem_y bem_u bem_one bem_two bem_three bem_four bem_five bem_six bem_seven bem_eight bem_nine bem_zero natu natu_z natu_x natu_c natu_v natu_b natu_n natu_m natu_a natu_s natu_d natu_f natu_g natu_h natu_j natu_q natu_w natu_e natu_r natu_t natu_y natu_u natu_one natu_two natu_three natu_four natu_five natu_six natu_seven natu_eight natu_nine natu_zero ddies ddies_z ddies_x ddies_c ddies_v ddies_b ddies_n ddies_m ddies_a ddies_s ddies_d ddies_f ddies_g ddies_h ddies_j ddies_q ddies_w ddies_e ddies_r ddies_t ddies_y ddies_u ddies_one ddies_two ddies_three ddies_four ddies_five ddies_six ddies_seven ddies_eight ddies_nine ddies_zero bbem_z bbem_x bbem_c bbem_v bbem_b bbem_n bbem_m bbem_a bbem_s bbem_d bbem_f bbem_g bbem_h bbem_j bbem_q bbem_w bbem_e bbem_r bbem_t bbem_y bbem_u bbem_one bbem_two bbem_three bbem_four bbem_five bbem_six bbem_seven bbem_eight bbem_nine bbem_zero stac_a2 stac_b2 stac_c3 stac_d3 stac_e3 stac_f3 stac_g3 stac_a3 stac_b3 stac_c4 stac_d4 stac_f4 stac_a4 stac_c5 stac_e5 stac_g5 stac_b5 stac_d6 stac_f6 stac_a6 stac_c7 stacs_a2 stacs_b2 stacs_c3 stacs_d3 stacs_e3 stacs_f3 stacs_g3 stacs_a3 stacs_b3 stacs_c4 stacs_d4 stacs_f4 stacs_a4 stacs_c5 stacs_e5 stacs_g5 stacs_b5 stacs_d6 stacs_f6 stacs_a6 stacs_c7 tenu_a2 tenu_b2 tenu_c3 tenu_d3 tenu_e3 tenu_f3 tenu_g3 tenu_a3 tenu_b3 tenu_c4 tenu_d4 tenu_f4 tenu_a4 tenu_c5 tenu_e5 tenu_g5 tenu_b5 tenu_d6 tenu_f6 tenu_a6 tenu_c7 asterisk mu greater stac_a5 stac_c6 stac_e6 stac_g6 stac_b6 stac_d7 stac_e7 stac_f7 stac_g7 tenu_a5 tenu_c6 tenu_e6 tenu_g6 tenu_b6 tenu_d7 tenu_e7 tenu_f7 tenu_g7 stacs_a5 stacs_c6 stacs_e6 stacs_g6 stacs_b6 stacs_d7 stacs_e7 stacs_f7 stacs_g7 acc_a2 acc_b2 acc_c3 acc_d3 acc_e3 acc_f3 acc_g3 acc_a3 acc_b3 acc_c4 acc_d4 acc_f4 acc_a4 acc_c5 acc_e5 acc_g5 acc_a5 acc_b5 acc_c6 acc_d6 acc_e6 acc_f6 acc_g6 acc_a6 acc_b6 acc_c7 acc_d7 acc_e7 acc_f7 acc_g7 dies_z.2 dies_x.2 dies_c.2 dies_v.2 dies_b.2 dies_n.2 dies_m.2 dies_a.2 dies_s.2 dies_d.2 dies_f.2 dies_g.2 dies_h.2 dies_j.2 dies_q.2 dies_w.2 dies_e.2 dies_r.2 dies_t.2 dies_y.2 dies_u.2 dies_one.2 dies_two.2 dies_three.2 dies_four.2 dies_five.2 dies_six.2 dies_seven.2 dies_eight.2 dies_nine.2 dies_zero.2 bem_z.2 bem_x.2 bem_c.2 bem_v.2 bem_b.2 bem_n.2 bem_m.2 bem_a.2 bem_s.2 bem_d.2 bem_f.2 bem_g.2 bem_h.2 bem_j.2 bem_q.2 bem_w.2 bem_e.2 bem_r.2 bem_t.2 bem_y.2 bem_u.2 bem_one.2 bem_two.2 bem_three.2 bem_four.2 bem_five.2 bem_six.2 bem_seven.2 bem_eight.2 bem_nine.2 bem_zero.2 natu_z.2 natu_x.2 natu_c.2 natu_v.2 natu_b.2 natu_n.2 natu_m.2 natu_a.2 natu_s.2 natu_d.2 natu_f.2 natu_g.2 natu_h.2 natu_j.2 natu_q.2 natu_w.2 natu_e.2 natu_r.2 natu_t.2 natu_y.2 natu_u.2 natu_one.2 natu_two.2 natu_three.2 natu_four.2 natu_five.2 natu_six.2 natu_seven.2 natu_eight.2 natu_nine.2 natu_zero.2 ddies_z.2 ddies_x.2 ddies_c.2 ddies_v.2 ddies_b.2 ddies_n.2 ddies_m.2 ddies_a.2 ddies_s.2 ddies_d.2 ddies_f.2 ddies_g.2 ddies_h.2 ddies_j.2 ddies_q.2 ddies_w.2 ddies_e.2 ddies_r.2 ddies_t.2 ddies_y.2 ddies_u.2 ddies_one.2 ddies_two.2 ddies_three.2 ddies_four.2 ddies_five.2 ddies_six.2 ddies_seven.2 ddies_eight.2 ddies_nine.2 ddies_zero.2 bbem_z.2 bbem_x.2 bbem_c.2 bbem_v.2 bbem_b.2 bbem_n.2 bbem_m.2 bbem_a.2 bbem_s.2 bbem_d.2 bbem_f.2 bbem_g.2 bbem_h.2 bbem_j.2 bbem_q.2 bbem_w.2 bbem_e.2 bbem_r.2 bbem_t.2 bbem_y.2 bbem_u.2 bbem_one.2 bbem_two.2 bbem_three.2 bbem_four.2 bbem_five.2 bbem_six.2 bbem_seven.2 bbem_eight.2 bbem_nine.2 bbem_zero.2 dies_z.3 dies_x.3 dies_c.3 dies_v.3 dies_b.3 dies_n.3 dies_m.3 dies_a.3 dies_s.3 dies_d.3 dies_f.3 dies_g.3 dies_h.3 dies_j.3 dies_q.3 dies_w.3 dies_e.3 dies_r.3 dies_t.3 dies_y.3 dies_u.3 dies_one.3 dies_two.3 dies_three.3 dies_four.3 dies_five.3 dies_six.3 dies_seven.3 dies_eight.3 dies_nine.3 dies_zero.3 bem_z.3 bem_x.3 bem_c.3 bem_v.3 bem_b.3 bem_n.3 bem_m.3 bem_a.3 bem_s.3 bem_d.3 bem_f.3 bem_g.3 bem_h.3 bem_j.3 bem_q.3 bem_w.3 bem_e.3 bem_r.3 bem_t.3 bem_y.3 bem_u.3 bem_one.3 bem_two.3 bem_three.3 bem_four.3 bem_five.3 bem_six.3 bem_seven.3 bem_eight.3 bem_nine.3 bem_zero.3 natu_z.3 natu_x.3 natu_c.3 natu_v.3 natu_b.3 natu_n.3 natu_m.3 natu_a.3 natu_s.3 natu_d.3 natu_f.3 natu_g.3 natu_h.3 natu_j.3 natu_q.3 natu_w.3 natu_e.3 natu_r.3 natu_t.3 natu_y.3 natu_u.3 natu_one.3 natu_two.3 natu_three.3 natu_four.3 natu_five.3 natu_six.3 natu_seven.3 natu_eight.3 natu_nine.3 natu_zero.3 ddies_z.3 ddies_x.3 ddies_c.3 ddies_v.3 ddies_b.3 ddies_n.3 ddies_m.3 ddies_a.3 ddies_s.3 ddies_d.3 ddies_f.3 ddies_g.3 ddies_h.3 ddies_j.3 ddies_q.3 ddies_w.3 ddies_e.3 ddies_r.3 ddies_t.3 ddies_y.3 ddies_u.3 ddies_one.3 ddies_two.3 ddies_three.3 ddies_four.3 ddies_five.3 ddies_six.3 ddies_seven.3 ddies_eight.3 ddies_nine.3 ddies_zero.3 bbem_z.3 bbem_x.3 bbem_c.3 bbem_v.3 bbem_b.3 bbem_n.3 bbem_m.3 bbem_a.3 bbem_s.3 bbem_d.3 bbem_f.3 bbem_g.3 bbem_h.3 bbem_j.3 bbem_q.3 bbem_w.3 bbem_e.3 bbem_r.3 bbem_t.3 bbem_y.3 bbem_u.3 bbem_one.3 bbem_two.3 bbem_three.3 bbem_four.3 bbem_five.3 bbem_six.3 bbem_seven.3 bbem_eight.3 bbem_nine.3 bbem_zero.3 u_09 u_08 u_07 u_98 u_97 u_96 u_87 u_86 u_85 u_76 u_75 u_74 u_65 u_64 u_63 u_54 u_53 u_52 u_43 u_42 u_41 u_32 u_31 u_3u u_21 u_2u u_2y u_1u u_1y u_1t u_uy u_ut u_ur u_yt u_yr u_ye u_tr u_te u_tw u_re u_rw u_rq u_ew u_eq u_ej u_wq u_wj u_wh u_qj u_qh u_qg u_jh u_jg u_jf u_hg u_hf u_hd u_gf u_gd u_gs u_fd u_fs u_fa u_ds u_da u_dm u_sa u_sm u_sn u_am u_an u_ab u_mn u_mb u_mv u_nb u_nv u_nc u_bv u_bc u_bx u_vc u_vx u_vz u_cx u_cz u_xz u_00 u_90 u_80 u_70 u_99 u_89 u_79 u_69 u_88 u_78 u_68 u_58 u_77 u_67 u_57 u_47 u_66 u_56 u_46 u_36 u_55 u_45 u_35 u_25 u_44 u_34 u_24 u_14 u_33 u_23 u_13 u_u3 u_22 u_12 u_u2 u_y2 u_11 u_u1 u_y1 u_t1 u_uu u_yu u_tu u_ru u_yy u_ty u_ry u_ey u_tt u_rt u_et u_wt u_rr u_er u_wr u_qr u_ee u_we u_qe u_je u_ww u_qw u_jw u_hw u_qq u_jq u_hq u_gq u_jj u_hj u_gj u_fj u_hh u_gh u_fh u_dh u_gg u_fg u_dg u_sg u_ff u_df u_sf u_af u_dd u_sd u_ad u_md u_ss u_as u_ms u_ns u_aa u_ma u_na u_ba u_mm u_nm u_bm u_vm u_nn u_bn u_vn u_cn u_bb u_vb u_cb u_xb u_vv u_cv u_xv u_zv u_cc u_xc u_zc u_xx u_zx u_zz p_c4 p_b3 p_a3 p_g3 p_f3 p_e3 p_d3 f_c4 f_b3 f_a3 f_g3 f_f3 f_e3 f_d3 ppp_d4 ppp_c4 ppp_b3 ppp_a3 ppp_g3 ppp_f3 ppp_e3 ppp_d3 pp_d4 pp_c4 pp_b3 pp_a3 pp_g3 pp_f3 pp_e3 pp_d3 mp_d4 mp_c4 mp_b3 mp_a3 mp_g3 mp_f3 mp_e3 mp_d3 mf_d4 mf_c4 mf_b3 mf_a3 mf_g3 mf_f3 mf_e3 mf_d3 ff_d4 ff_c4 ff_b3 ff_a3 ff_g3 ff_f3 ff_e3 ff_d3 fff_d4 fff_c4 fff_b3 fff_a3 fff_g3 fff_f3 fff_e3 fff_d3 sfz_d4 sfz_c4 sfz_b3 sfz_a3 sfz_g3 sfz_f3 sfz_e3 sfz_d3 fp_d4 fp_c4 fp_b3 fp_a3 fp_g3 fp_f3 fp_e3 fp_d3
+%%END
+
+%%CLASS beams2
+%%GLYPHS  u_00 u_90 u_80 u_70 u_99 u_89 u_79 u_69 u_88 u_78 u_68 u_58 u_77 u_67 u_57 u_47 u_66 u_56 u_46 u_36 u_55 u_45 u_35 u_25 u_44 u_34 u_24 u_14 u_33 u_23 u_13 u_u3 u_22 u_12 u_u2 u_y2 u_11 u_u1 u_y1 u_t1 u_uu u_yu u_tu u_ru u_yy u_ty u_ry u_ey u_tt u_rt u_et u_wt u_rr u_er u_wr u_qr u_ee u_we u_qe u_je u_ww u_qw u_jw u_hw u_qq u_jq u_hq u_gq u_jj u_hj u_gj u_fj u_hh u_gh u_fh u_dh u_gg u_fg u_dg u_sg u_ff u_df u_sf u_af u_dd u_sd u_ad u_md u_ss u_as u_ms u_ns u_aa u_ma u_na u_ba u_mm u_nm u_bm u_vm u_nn u_bn u_vn u_cn u_bb u_vb u_cb u_xb u_vv u_cv u_xv u_zv u_cc u_xc u_zc u_xx u_zx u_zz
+%%END
+
+%%CLASS arp
+%%GLYPHS  arp_e3 arp_g3 arp_b3 arp_d4 arp_f4 arp_a4 arp_c5 arp_e5 arp_g5 arp_b5 arp_d6 arp_f6 arp_a6 arp_c7 arp_e7
+%%END
+
+%%CLASS arpe
+%%GLYPHS  arpe_g3 arpe_b3 arpe_d4 arpe_f4 arpe_a4 arpe_c5 arpe_e5 arpe_g5 arpe_b5 arpe_d6 arpe_f6 arpe_a6 arpe_c7 arpe_e7
+%%END
+
+%%CLASS arpee
+%%GLYPHS  arpee_b3 arpee_d4 arpee_f4 arpee_a4 arpee_c5 arpee_e5 arpee_g5 arpee_b5 arpee_d6 arpee_f6 arpee_a6 arpee_c7 arpee_e7
+%%END
+
+%%CLASS arp2
+%%GLYPHS  arp_e3.2 arp_g3.2 arp_b3.2 arp_d4.2 arp_f4.2 arp_a4.2 arp_c5.2 arp_e5.2 arp_g5.2 arp_b5.2 arp_d6.2 arp_f6.2 arp_a6.2 arp_c7.2 arp_e7.2
+%%END
+
+%%CLASS arpe2
+%%GLYPHS  arpe_g3.2 arpe_b3.2 arpe_d4.2 arpe_f4.2 arpe_a4.2 arpe_c5.2 arpe_e5.2 arpe_g5.2 arpe_b5.2 arpe_d6.2 arpe_f6.2 arpe_a6.2 arpe_c7.2 arpe_e7.2
+%%END
+
+%%CLASS arpee2
+%%GLYPHS  arpee_b3.2 arpee_d4.2 arpee_f4.2 arpee_a4.2 arpee_c5.2 arpee_e5.2 arpee_g5.2 arpee_b5.2 arpee_d6.2 arpee_f6.2 arpee_a6.2 arpee_c7.2 arpee_e7.2
+%%END
