@@ -1,8 +1,34 @@
 = Cavatina
+:base-url:  https://lexluengas.github.io/cavatina-docs
 
-This repository contains the source files for building the fonts.
+image:https://github.com/LexLuengas/cavatina-docs/blob/master/resources/images/the_lick.png[]
 
-If you are just interested in the fonts, head on to the link:https://github.com/LexLuengas/cavatina/releases[release page] and install the font that is named after your keyboard layout.
+== Installation
+
+You can grab a copy of the fonts from the link:https://github.com/LexLuengas/cavatina/releases[release page] and install the fonts within the folder that is named after your keyboard layout.
+
+== Learning resources
+
+There are three learning resources available to you:
+- The link:{base-url}/docs.html[documentation].
+- A link:{base-url}/tutorial.html[tutorial].
+- The link:{base-url}/keyboard-mapping.html[keyboard mapping].
+
+== Support
+
+Currently supported keyboard layouts are:
+- English (US)
+- English (UK, Apple)
+- English (UK, Windows)
+- French
+- German
+- Italian
+- Spanish
+- Spanish (ISO)
+- Portuguese (Brazil, Windows)
+- Portuguese (Portugal, Windows)
+
+The font renders correctly in Firefox, Chrome and Opera. To use the font in a rich text editor it has to support typographic features, specifically standard ligatures and contextual alternates. 
 
 == License
 
