@@ -1,0 +1,9 @@
+= Cavatina
+
+This repository contains the source files for building the fonts.
+
+If you are just interested in the fonts, head on to the link:https://github.com/LexLuengas/cavatina/releases[release page] and install the font that is named after your keyboard layout.
+
+== License
+
+link:LICENSE[MIT] © 2019 Alexis Luengas
