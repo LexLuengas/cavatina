@@ -10,6 +10,7 @@ You can grab a copy of the fonts from the link:https://github.com/LexLuengas/cav
 == Learning resources
 
 There are three learning resources available to you:
+
 * The link:{base-url}/docs.html[documentation].
 * A link:{base-url}/tutorial.html[tutorial].
 * The link:{base-url}/keyboard-mapping.html[keyboard mapping].
@@ -17,6 +18,7 @@ There are three learning resources available to you:
 == Support
 
 Currently supported keyboard layouts are:
+
 * English (US)
 * English (UK, Apple)
 * English (UK, Windows)
