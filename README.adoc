@@ -1,11 +1,15 @@
 = Cavatina
-:base-url:  https://lexluengas.github.io/cavatina-docs
+:base-url:      https://lexluengas.github.io/cavatina-docs
+:note-caption:  :information_source:
 
 image:https://github.com/LexLuengas/cavatina-docs/blob/master/resources/images/the_lick.png[]
 
 == Installation
 
-You can grab a copy of the fonts from the link:https://github.com/LexLuengas/cavatina/releases[release page] and install the fonts within the folder that is named after your keyboard layout.
+You can grab a copy of the fonts from the link:https://github.com/LexLuengas/cavatina/releases[release page] and install the fonts within the folder that is named after your keyboard layout. 
+
+[NOTE]
+Users of the English (International) keyboard layout should install the English (US) layout, as they are the same.
 
 == Learning resources
 
