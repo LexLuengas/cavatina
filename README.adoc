@@ -19,10 +19,11 @@ There are three learning resources available to you:
 
 The font renders correctly on the latest versions of Firefox, Chrome and Opera. To use the font in a rich text editor it has to support typographic features, specifically standard ligatures and contextual alternates. 
 
-=== Keyboard Layouts
+=== Keyboard layouts
 
 Currently supported keyboard layouts are:
 
+* English (International)
 * English (US)
 * English (UK, Apple)
 * English (UK, Windows)
