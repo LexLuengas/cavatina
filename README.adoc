@@ -17,6 +17,10 @@ There are three learning resources available to you:
 
 == Support
 
+The font renders correctly on the latest versions of Firefox, Chrome and Opera. To use the font in a rich text editor it has to support typographic features, specifically standard ligatures and contextual alternates. 
+
+=== Keyboard Layouts
+
 Currently supported keyboard layouts are:
 
 * English (US)
@@ -29,8 +33,6 @@ Currently supported keyboard layouts are:
 * Spanish (ISO)
 * Portuguese (Brazil, Windows)
 * Portuguese (Portugal, Windows)
-
-The font renders correctly in Firefox, Chrome and Opera. To use the font in a rich text editor it has to support typographic features, specifically standard ligatures and contextual alternates. 
 
 == License
 
